@@ -1,4 +1,4 @@
-package mainPackage;
+package main.java.AltA;
 
 public class Belly {
     private int cukes;
